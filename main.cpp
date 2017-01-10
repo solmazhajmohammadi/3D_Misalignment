@@ -1,6 +1,7 @@
 /*
 This module applies the offset [ -13  +50  0] to the Top-heading-west scanner to compensate for misalignment between the two pointclouds.
 Input file: XXXXXXX--Top-heading-west_0.ply
+Output file: XXXXXXX--Top-heading-west_0_transformed.ply
 -----------------------------------------------------------------------------------------------------------------------------------------
 Prerequisite:
 PCL Library(Version 1.7 REQUIRED )
